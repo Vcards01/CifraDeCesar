@@ -1,2 +1,5 @@
 # CifraDeCesar
-Exercicio de criptografia com Cifra de cesar
+
+Exercicio de criptografia, fazendo Cifra de cesar usando python.
+
+Encryption exercise, caesar cipher using python.
